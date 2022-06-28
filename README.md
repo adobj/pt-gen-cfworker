@@ -14,6 +14,7 @@
 
 API Point：
  - https://ptgen.rhilip.info/
+ - https://ptgen.cnspace.cf/
  - **！！！大批量请求时，请勿使用测试DEMO站点，请自己搭建cf-worker！！！**
 
 `资源搜索` 请求字段：
